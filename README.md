@@ -29,6 +29,8 @@ Kaggle Dataset → Python/Pandas Data Cleaning → Data Analysis → Power BI Da
 6. Customer Analysis
 ## Power BI Dashboard
 The Power BI dashboard provides interactive visualizations for revenue, product categories, monthly sales trends, regions, payment methods, and top customers.
+## Dashboard Preview
+![E-Commerce Sales & Customer Analytics Dashboard](screenshots/2026-09-05 122211.png)
 ## Key Results
 - Total revenue generated was approximately ₹5.11 million.
 - Electronics generated the highest total revenue among all product categories.
